@@ -1,1 +1,1 @@
-# coca-coca-bottles-image-labeling-with-json
+# coca-cola-bottles-image-labeling-with-json
